@@ -1,0 +1,10 @@
+Question: Remove duplicate elements from given list
+list = [45, 12, 36, 45, 85, 96, 34, 75, 89, 63, 12, 12, 25, 36, 47, 36, 12, 15, 85];
+
+list= [45, 12, 36, 85, 96, 34, 75, 89, 63, 25, 47, 15]
+
+Questions 2: Print frequency of elements in given list
+list = [45, 12, 36, 45, 85, 96, 34, 75, 89, 63, 12, 12, 25, 36, 47, 36, 12, 15, 85];
+45 - 2
+12 - 3
+36 - 3
