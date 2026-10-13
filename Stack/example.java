@@ -1,6 +1,4 @@
-
 import java.util.Stack;
-
 
 public class example {
     public static void main(String[] args) {
@@ -14,7 +12,7 @@ public class example {
         System.out.println(stack);
         stack.clear();
         System.out.println(stack.isEmpty());
-
+        
 
     }
 }
